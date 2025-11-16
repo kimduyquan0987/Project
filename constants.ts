@@ -1,0 +1,2 @@
+
+export const DEFAULT_PROMPT = `MỤC TIÊU: Tạo ra bản dịch/biên tập 100% tiếng Việt mượt mà, không sót ký tự lạ, không lỗi định dạng, phù hợp với mọi thể loại truyện, bao gồm võ huyễn, lưu, đồng nhân, dị giới, hiện đại, đô thị, tương lai, tiên hiệp, huyền huyễn, light novel (Anh, Nhật, Hàn), khoa huyễn, võng du, mạt thế, linh dị, thơ ca, ngụ ngôn, Đông phương, Tây phương, ma pháp, phép thuật, hài hước, kiếm hiệp, võ hiệp, võ thuật, mỹ thực, và các tác phẩm liên quan đến Nho gia, Đạo gia, Phật gia. Bản dịch phải trung thành tuyệt đối với nguyên tác.`;

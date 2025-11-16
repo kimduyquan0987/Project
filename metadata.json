@@ -1,0 +1,5 @@
+{
+  "name": "Translation Editor",
+  "description": "An advanced translation editor that leverages the Gemini API to provide high-quality, customizable translations with additional processing features.",
+  "requestFramePermissions": []
+}
